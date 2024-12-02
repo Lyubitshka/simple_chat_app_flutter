@@ -7,7 +7,8 @@ This app integrates modern features like user authentication, cloud storage, and
 - 📱 Real-time messaging using **Firebase Firestore**.  
 - 🔐 User authentication via **Firebase Authentication** (Email/Password, Google).  
 - 🖼️ Avatar uploads and sharing using **Firebase Storage**.  
-- 🔔 Push notifications with **Firebase Cloud Messaging** (FCM).  
+- 🔔 Push notifications with **Firebase Cloud Messaging** (FCM).
+- 🌈 Support for group chats.
 
 ## Tech Stack  
 - **Frontend:** Flutter (Dart)  
@@ -24,7 +25,7 @@ This app integrates modern features like user authentication, cloud storage, and
 - Firebase account ([create one here](https://firebase.google.com/))  
 - Firebase CLI for project setup  
 
-## Install dependencies:
+## Installation:
 1. Create flutter project.
 2. Copy lib folder to your project.
 3. Install dependencies:
@@ -36,13 +37,9 @@ This app integrates modern features like user authentication, cloud storage, and
 <img width="205" alt="chat_app_3" src="https://github.com/user-attachments/assets/2d8b6fa4-dceb-400b-b1f7-faa9a21b397e">
 
 ## Future Enhancements
-🌈 Add support for group chats.
 🦄 Image sharing functionality within chats.
 📊 Integrate Firebase Analytics for app usage insights.
 🌍 Enable multi-language support (i18n).
-
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 Special thanks to the Firebase and Flutter communities for their incredible tools and resources!
