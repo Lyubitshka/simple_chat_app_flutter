@@ -37,9 +37,9 @@ This app integrates modern features like user authentication, cloud storage, and
 <img width="205" alt="chat_app_3" src="https://github.com/user-attachments/assets/2d8b6fa4-dceb-400b-b1f7-faa9a21b397e">
 
 ## Future Enhancements
-🦄 Image sharing functionality within chats.
-📊 Integrate Firebase Analytics for app usage insights.
-🌍 Enable multi-language support (i18n).
+🦄 Image sharing functionality within chats.<br>
+📊 Integrate Firebase Analytics for app usage insights.<br>
+🌍 Enable multi-language support (i18n).<br>
 
 ## Acknowledgments
 Special thanks to the Firebase and Flutter communities for their incredible tools and resources!
